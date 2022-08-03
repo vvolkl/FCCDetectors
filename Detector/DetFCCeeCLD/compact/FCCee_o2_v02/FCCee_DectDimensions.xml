@@ -200,8 +200,9 @@
     <constant name="BPM_min_z" value="3790*mm"/>
     <constant name="BPM_max_z" value="3880*mm"/>        
 
-    <constant name="QD0_min_z" value="2000*mm"/>  
+    <!--<constant name="QD0_min_z" value="2000*mm"/>  -->
     <!-- <constant name="QD0_min_z" value="2200*mm"/> -->
+    <constant name="QD0_min_z" value="2000*mm"/>
     <constant name="QD0_max_z" value="5200*mm"/>
     <constant name="QD0Coil_outer_radius" value="30*mm"/>
     <constant name="CollimatorInFrontOfQD0_dz" value="20*cm"/>   
